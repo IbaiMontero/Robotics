@@ -30,9 +30,9 @@ This Arduino project demonstrates how to control four LEDs based on the input fr
 ## LED Control:
 
 
-+The code uses a series of **if** and **else if** statements to control the LEDs based on the potentiometer value.
++ The code uses a series of **if** and **else if** statements to control the LEDs based on the potentiometer value.
 
-+The LEDs are turned on or off in a progressive manner depending on the potentiometer value ranges.
++ The LEDs are turned on or off in a progressive manner depending on the potentiometer value ranges.
 
 Make sure to connect the LEDs and potentiometer to the correct pins on your Arduino board. The potentiometer will provide analog input values in the range of 0 to 1023, and the code maps different ranges to control the LEDs accordingly.
 
